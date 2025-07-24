@@ -3,7 +3,7 @@
 
 A brief description of what this project does and who it's for
 
-Este repositorio este es mi primer repositoerio. KKKK
+Este repositorio este es mi primer repositoerio.
 
 ## Authors
 
